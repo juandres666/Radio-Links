@@ -1,0 +1,4 @@
+en la unidad de cd: abrir la carpeta: Radioenlaces.
+
+
+Desde el guide de matlab abrir el archivo: RadioEnlaces.
